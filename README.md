@@ -1,4 +1,4 @@
-# Analysis of Movie Rentals Database 
+# Analysis of Chinook Database 
 
 ### Introduction
 I've just finished the Course: [Using SQL for Data Analysis](https://learn.udacity.com/paid-courses/cd0023) at [Udacity](https://www.udacity.com) and this project was a part of my course study.
